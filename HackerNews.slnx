@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="HackerNews.Test/HackerNews.Test.csproj" Id="e7adbbe2-c70e-4cca-b53c-8f5cb28ab694" />
+  <Project Path="HackerNews\HackerNews.csproj" />
+</Solution>
